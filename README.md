@@ -2,7 +2,7 @@
 ## Tic Tac Toe Web Application
 
 
-<p> Task - To build a simple Tic Tac Toe web application.</p>
+<p> Task 3 - To build a simple Tic Tac Toe web application.</p>
 
 ### Rules
 
